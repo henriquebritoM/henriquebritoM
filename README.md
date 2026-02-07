@@ -1,6 +1,3 @@
-- 👋 Hi, I’m henriquebritoM
-- 🌱 I’m currently learning ...
-- 💞️ he/him
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=henriquebritoM)](https://github.com/anuraghazra/github-readme-stats) --->
 
